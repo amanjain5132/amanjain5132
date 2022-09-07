@@ -13,7 +13,6 @@
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Systems engineer
 - ✍️ &nbsp; MCA student.
 - 🌱 &nbsp; I’m currently learning **FULLSTACK , JAVA , Data Structures and Algorithms.**
 - 🔭 &nbsp; I’m currently working on **something cool.**
