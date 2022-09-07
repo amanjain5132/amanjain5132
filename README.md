@@ -32,6 +32,9 @@
 
  <br/>
     <a href="https://github.com/amanjain5132/amanjain5132"><img alt="" src="https://github-readme-stats.vercel.app/api?username=amanjain5132&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+ &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/oghrh5bn7n4fv7h72epmr2i5e)
+
  
   <a href="https://amanjain5132.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanjain5132&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
