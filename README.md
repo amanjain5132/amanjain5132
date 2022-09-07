@@ -8,11 +8,11 @@
 
 ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
+<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/code.gif" alt="🌟" width='40' /> About Me</h2>
 
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring Technologies and developing software solutions and quick hacks.
 - ✍️ &nbsp; MCA student.
 - 🌱 &nbsp; I’m currently learning **FULLSTACK , JAVA , Data Structures and Algorithms.**
 - 🔭 &nbsp; I’m currently working on **something cool.**
