@@ -6,6 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=amanjain5132&style=flat-square&color=ff69b4)
 <a href="https://www.youtube.com/channel/UCJ62ENlmlh1YdS9pdNEfLEA/featured">![Youtube](https://img.shields.io/badge/-AmanJain-333333?style=flat&logo=youtube)</a>
 
+
 ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/code.gif" alt="🌟" width='40' /> About Me</h2>
