@@ -33,7 +33,7 @@
 
     
  &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/oghrh5bn7n4fv7h72epmr2i5e)
-
+ 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
@@ -63,6 +63,15 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Amanjain5132&theme=react-dark&hide_border=true&area=true)
 
 <div align="center">
+
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanjain5132&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+  </a>
+</p>
+
 
 #### _Read this in [other languages](translations/Translations.md)._
 
