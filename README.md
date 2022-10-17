@@ -1,4 +1,9 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Aman Jain 👨‍💻 
+<h2 align="left">
+
+   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!!;I+am+AmanJain.;Welcome+to+my+Github.;Code+is+like+humour!!;It's+bad,+when+you+explain+it+🤣;)]()
+</h2>
 <h3 align="left">A passionate developer from India</h3>
 
 ![](https://img.shields.io/github/followers/amanjain5132?label=follow&logo=github&style=flat-square)
